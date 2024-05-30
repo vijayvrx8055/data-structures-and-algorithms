@@ -1,4 +1,4 @@
-package com.vrx.ds.searching;
+package com.vrx.ds.searching.binary;
 
 import java.io.BufferedReader;
 import java.io.IOException;
